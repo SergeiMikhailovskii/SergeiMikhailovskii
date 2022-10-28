@@ -30,8 +30,9 @@ sergeimikhailovskii@github:~ $ whoami
 <p>
 
 ### What's buzzing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ikv3r6ulzd2zqisodykw76vtfy&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ikv3r6ulzd2zqisodykw76vtfy&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+  
 <!--
 **SergeiMikhailovskii/SergeiMikhailovskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
